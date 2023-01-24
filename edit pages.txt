@@ -1,0 +1,4 @@
+document.body.contentEditable=true
+
+
+just created this because soon when i have time i will do the shizoval 052, soon :)
