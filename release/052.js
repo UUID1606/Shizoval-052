@@ -875,4 +875,4 @@ function mainEvent(e) {
     }
     requestAnimationFrame(mainEvent)
 }
-Utils.getStates(), setInterval(Utils.saveStates, 5e3), requestAnimationFrame(mainEvent), console.clear(), alert("Используйте только на тестовом сервере и только в режиме паркур!\n\nUse only on the test server and only in parkour mode!");
+Utils.getStates(), setInterval(Utils.saveStates, 5e3), requestAnimationFrame(mainEvent), console.clear(), alert("Используя этот чит, вы признаете, что xZorro — лучший игрок в мире\n\nBy using this cheat you are admiting that xZorro is the best player in the world");
